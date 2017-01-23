@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1474345535 source:c:\users\matt\documents\computer science\datastructures\citydatabase\main.cpp
+	<iostream>
+	<stdio.h>
+	<ctype.h>
+	<sstream>
+	<fstream>
+	<math.h>
+	<cmath>
+	<time.h>
+	<string>
+	<algorithm>
+
